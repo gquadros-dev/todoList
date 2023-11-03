@@ -1,0 +1,14 @@
+.main {
+  background: #fff;
+  padding: 30px;
+  margin: 50px auto;
+  max-width: 640px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main h1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
