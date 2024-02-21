@@ -26,10 +26,10 @@ Para instalar o To do List, siga estas etapas:
 Linux e Windows:
 
 ```
-<Primeiro faça download dos arquivos do projeto;>
-<Navegue pelo terminal até a pasta onde fez o download dos arquivos;>
-<Então rode o comando: "npm i", o qual instalará as dependências do projeto;>
-<Após isso é só rodar o projeto!>
+Primeiro faça download dos arquivos do projeto;
+Navegue pelo terminal até a pasta onde fez o download dos arquivos;
+Então rode o comando: "npm i", o qual instalará as dependências do projeto;
+Após isso é só rodar o projeto!
 ```
 
 ## ☕ Usando To do List
@@ -37,7 +37,7 @@ Linux e Windows:
 Para usar To do List, siga estas etapas:
 
 ```
-<Esse é um projeto bem simples, onde você só precisa escrever o nome da sua tarefa no campo e clicar no "+" para adicionar. Assim ficarão salvas as suas tarefas para lembrar posteriormente o que tem que fazer>
+Esse é um projeto bem simples, onde você só precisa escrever o nome da sua tarefa no campo e clicar no "+" para adicionar. Assim ficarão salvas as suas tarefas para lembrar posteriormente o que tem que fazer
 ```
 
 ## 🤝 Colaboradores
